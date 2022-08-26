@@ -29,6 +29,5 @@ namespace DevagramCSharp.Controllers
 				return _usuarioRepository.GetUsuarioPorId(int.Parse(idUsuario));
 			}
 		}
-
 	}
 }
