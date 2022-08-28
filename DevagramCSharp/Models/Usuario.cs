@@ -10,5 +10,7 @@
 
 		public string Senha { get; set; }
 
+		public string FotoPerfil { get; set; }
+
 	}
 }
